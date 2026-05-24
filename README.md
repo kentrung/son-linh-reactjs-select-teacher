@@ -6,4 +6,4 @@
 - HV 2 chọn giáo viên B
 - HV 3 sẽ không chọn được giáo viên A - B nữa
 
-<img width="750" height="426" alt="image" src="https://github.com/user-attachments/assets/005aa993-5712-4da8-b510-2065bffb4b02" />
+<img width="554" height="424" alt="image" src="https://github.com/user-attachments/assets/31e12b5c-c070-4115-9bca-a59a9820347b" />
